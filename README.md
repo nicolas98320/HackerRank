@@ -20,3 +20,4 @@ Pointer<br>
 <h3>Data Structures</h3>
 Arrays - DS<br>
 2D Array - DS<br>
+Print the Elements of a Linked List<br>
