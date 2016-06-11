@@ -13,6 +13,7 @@ Day 8: Dictionaries and Maps<br>
 Day 9: Recursion<br>
 Day 10: Binary Numbers<br>
 Day 11: 2D-Arrays<br>
+Day 12: Inheritance<br>
 
 <h3>C ++</h3>
 Say "Hello, World!" With C++<br>
