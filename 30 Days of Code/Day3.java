@@ -11,13 +11,10 @@ public class Solution {
       scan.close();
       String ans="";
           
-      // if 'n' is NOT evenly divisible by 2 (i.e.: n is odd)
-      if(n%2==1){
-         ans = "Weird";
-      }
-      else{
-         // Complete the code 
-      }
-      System.out.println(ans);
+       if( n%2 == 1 || (n > 5 && n < 21))
+           System.out.println("Weird");
+       else
+           System.out.println("Not Weird");
+
    }
 }
