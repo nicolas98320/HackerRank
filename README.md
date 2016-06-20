@@ -22,6 +22,7 @@ Day 17: More Exceptions<br>
 Day 18: Queues and Stacks<br>
 Day 19: Interfaces<br>
 Day 20: Sorting<br>
+Day 21: Generics<br>
 
 <h3>C ++</h3>
 Say "Hello, World!" With C++<br>
