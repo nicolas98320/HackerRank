@@ -32,14 +32,17 @@ Day 25: Running Time and Complexity<br>
 Day 26: Nested Logic<br>
 
 <h3>C ++</h3>
-Say "Hello, World!" With C++<br>
 Pointer<br>
+Say "Hello, World!" With C++<br>
+
 
 <h3>Data Structures</h3>
-Arrays - DS<br>
 2D Array - DS<br>
+Arrays - DS<br>
 Print the Elements of a Linked List<br>
 
 <h3>Java</h3>
+A Very Big Sum<br>
+Plus Minus<br>
 Simple Array Sum<br>
 
