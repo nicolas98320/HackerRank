@@ -39,3 +39,7 @@ Pointer<br>
 Arrays - DS<br>
 2D Array - DS<br>
 Print the Elements of a Linked List<br>
+
+<h3>Java</h3>
+Simple Array Sum<br>
+
