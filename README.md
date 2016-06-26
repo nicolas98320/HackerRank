@@ -30,6 +30,7 @@ Day 23: BST Level-Order Traversal<br>
 Day 24: More Linked Lists<br>
 Day 25: Running Time and Complexity<br>
 Day 26: Nested Logic<br>
+Day 27: Testing<br>
 
 <h3>C ++</h3>
 Pointer<br>
