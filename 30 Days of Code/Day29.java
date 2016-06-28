@@ -14,13 +14,13 @@ public class Solution {
             int K = in.nextInt();
             int max = 0;
 
-            for(int z = 1; z < n; z++){
+            for(int z = 1; z < N; z++){
 
-                for(int j = z + 1; j <= n; j++){
+                for(int j = z + 1; j <= N; j++){
 
                     int h = z & j;
 
-                    if(h < k && c < h){
+                    if(h < K && max < h){
                         
                         max = h;
                     }
