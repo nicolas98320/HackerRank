@@ -49,6 +49,7 @@ A Very Big Sum<br>
 Angry Professor<br>
 Diagonal Difference<br>
 Find Digits<br>
+Pangrams<br>
 Plus Minus<br>
 Simple Array Sum<br>
 
