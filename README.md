@@ -52,5 +52,5 @@ Find Digits<br>
 Pangrams<br>
 Plus Minus<br>
 Simple Array Sum<br>
-
+Staircase<br>
 
