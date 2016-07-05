@@ -41,6 +41,7 @@ Say "Hello, World!" With C++<br>
 
 <h3>Data Structures</h3>
 2D Array - DS<br>
+Array Left Rotation<br>
 Arrays - DS<br>
 Print the Elements of a Linked List<br>
 
